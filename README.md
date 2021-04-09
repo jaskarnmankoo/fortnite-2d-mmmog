@@ -1,4 +1,4 @@
-# Fortnite2D
+# fortnite-2d-mmmog
 
 A project done in pairs where we had to create a 2D version of Fortnite. This game is a MMMOG (Mobile Massively Multiplayer Online Game).
 
