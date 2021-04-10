@@ -23,7 +23,7 @@ A project done in pairs where we had to create a 2D version of Fortnite. This ga
 
 ## Features
 
-In addition to the features listed at [Fortnite2D](https://github.com/jaskarnmankoo/CSC309/blob/master/Fortnite2D/README.md)
+In addition to the features listed at [Fortnite2D](https://github.com/jaskarnmankoo/fortnite-2d/blob/master/README.md)
 
 ### Touch-Screen Controls
 * Movement
